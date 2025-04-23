@@ -100,7 +100,6 @@ Busco uma oportunidade como Backend, Frontend ou Fullstack devel, onde eu possa 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<br/>
 
 <img
     align="left"
@@ -128,7 +127,6 @@ Busco uma oportunidade como Backend, Frontend ou Fullstack devel, onde eu possa 
     align="left"
     alt="spring boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
-<br/>
 
 <img 
     align="left"
