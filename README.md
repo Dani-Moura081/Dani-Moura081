@@ -18,7 +18,7 @@ Busco uma oportunidade como Backend, Frontend ou Fullstack devel, onde eu possa 
 <br/>
  🛠️ Ferramentas e Frameworks
 
-<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px; line-height:10px;">
   <img 
     align="left" 
       alt="HTML"
