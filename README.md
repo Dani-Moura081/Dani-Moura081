@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Daniel Moura
+# 👨🏻‍💻 Daniel Moura
 
 **`Desenvolvedor FullStack`**
 Meu nome é Daniel Rodrigues Silva Moura, e sou um entusiasta de desenvolvimento backend em busca da primeira oportunidade profissional. Mesmo sem experiência formal na área, dedico meu tempo a projetos acadêmicos e voluntários para fortalecer minhas habilidades técnicas.
