@@ -59,7 +59,6 @@ Busco uma oportunidade como Backend, Frontend ou Fullstack devel, onde eu possa 
       style="vertical-align: middle;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
   />
-</div>
 
  <img 
     align="left" 
@@ -143,6 +142,9 @@ Busco uma oportunidade como Backend, Frontend ou Fullstack devel, onde eu possa 
     align="left"
     alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" title="Ubuntu" width="30px" style="padding-right: 10px;" /> 
 
+</div>
+
+ 
 <br/>
 <br/>
 
