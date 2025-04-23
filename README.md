@@ -145,6 +145,10 @@ Busco uma oportunidade como Backend, Frontend ou Fullstack devel, onde eu possa 
  
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
